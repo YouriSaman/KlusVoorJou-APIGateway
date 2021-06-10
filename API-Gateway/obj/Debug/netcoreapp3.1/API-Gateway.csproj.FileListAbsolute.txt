@@ -20,7 +20,6 @@ D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\KlusVoorJou\API-Gatew
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\KlusVoorJou\API-Gateway\API-Gateway\obj\Debug\netcoreapp3.1\API-Gateway.genruntimeconfig.cache
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\bin\Debug\netcoreapp3.1\API-Gateway.exe
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\bin\Debug\netcoreapp3.1\API-Gateway.deps.json
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\bin\Debug\netcoreapp3.1\API-Gateway.runtimeconfig.json
@@ -50,4 +49,5 @@ D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gatew
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\obj\Debug\netcoreapp3.1\API-Gateway.MvcApplicationPartsAssemblyInfo.cs
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\obj\Debug\netcoreapp3.1\API-Gateway.MvcApplicationPartsAssemblyInfo.cache
 D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\obj\Debug\netcoreapp3.1\API-Gateway.csproj.CopyComplete
-D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\obj\Debug\netcoreapp3.1\API-Gateway.csprojAssemblyReference.cache
+D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\obj\Debug\netcoreapp3.1\API-Gateway.csproj.AssemblyReference.cache
+D:\Users\Youri\Documents\Fontys\S7-S66\Individuele project\API-Gateway\API-Gateway\obj\Debug\netcoreapp3.1\scopedcss\bundle\API-Gateway.styles.css
